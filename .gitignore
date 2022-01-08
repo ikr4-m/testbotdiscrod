@@ -1,0 +1,6 @@
+# Ignore VStudio folder
+.vs
+
+# Ignore build folder
+TestBotDiscrod/bin
+TestBotDiscrod/obj
